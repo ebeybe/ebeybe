@@ -1,5 +1,5 @@
 ![Header](./ebeybe.png)
-
+https://ebeybe.github.io
 Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Nosotros somos Ebeybe peluquería y Estética playas de Tijuana
 ======================================================================================================================================================================
 
@@ -9,7 +9,7 @@ Barberia y Estética ✔️
 Somos un negocio de diversas capacidades laborales, Cortes de Cabello para Hombres, Damas, Niños y Niñas, Tintes, Rayitos, Planchado y mucho más!!
 
 * 🌍  Ubicados en Playas de Tijuana Sección jardines
-* 🖥️  Mira aquí [Ebeybe peluquería y Estética sitio web](http://ebeybe.com)
+* 🖥️  Mira aquí [Ebeybe peluquería y Estética sitio web](https://ebeybe.github.io)
 * ✉️  Agendar citas por correo [flor@gmail.com](mailto:flor@gmail.com)
 * 🚀  Precios y horarios de EBEYBE  [Mira aquí nuestros precios y horarios](http://Ebeybe.net)
 
