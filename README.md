@@ -27,12 +27,3 @@ Somos un negocio de diversas capacidades laborales, Cortes de Cabello para Hombr
 
 <a href="http://www.github.com/ebeybe"><img src="https://github-readme-stats.vercel.app/api?username=ebeybe&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ebeybe's GitHub stats" /></a>
 
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/ebeybe"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/Ebeybe"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
